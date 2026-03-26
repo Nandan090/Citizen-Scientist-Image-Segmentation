@@ -43,7 +43,7 @@ SPECIES_LIST = [
 ]
 
 # Download settings
-MAX_IMAGES_PER_SPECIES = 4000  # Matches SAMPLES_PER_CLASS in pipeline
+MAX_IMAGES_PER_SPECIES = 8000  # Matches SAMPLES_PER_CLASS in pipeline
 QUALITY_GRADE = "research"      # "research" = verified; "needs_id" = unverified; "any"
 LICENSE = "cc-by,cc-by-nc,cc0"  # Only download open-license images
 MIN_IMAGE_SIZE_BYTES = 10_000   # Skip images smaller than 10KB (likely corrupt/tiny)
