@@ -180,7 +180,7 @@ class_id x1 y1 x2 y2 ... xN yN
 
 ---
 
-## Step 4 — Train YOLOv8 segmentation model (required)
+## Step 4 — Train YOLOv8 segmentation model 
 
 ### Option A: Train via YOLO CLI
 After `yolo.py` generates `yolo_dataset/data.yaml`:
